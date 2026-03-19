@@ -4,3 +4,5 @@ configs/*/dtbo/*.dtbo
 !bin/fes1_*.bin
 !bin/sboot_*.bin
 bin/u-boot-*.bin
+config.bat
+node_modules
